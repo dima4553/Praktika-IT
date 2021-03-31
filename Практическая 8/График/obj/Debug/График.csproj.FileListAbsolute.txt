@@ -1,0 +1,9 @@
+C:\Users\student\source\repos\Praktika-IT\Практическая 8\График\bin\Debug\График.exe.config
+C:\Users\student\source\repos\Praktika-IT\Практическая 8\График\bin\Debug\График.exe
+C:\Users\student\source\repos\Praktika-IT\Практическая 8\График\bin\Debug\График.pdb
+C:\Users\student\source\repos\Praktika-IT\Практическая 8\График\obj\Debug\График.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Praktika-IT\Практическая 8\График\obj\Debug\График.Form1.resources
+C:\Users\student\source\repos\Praktika-IT\Практическая 8\График\obj\Debug\График.Properties.Resources.resources
+C:\Users\student\source\repos\Praktika-IT\Практическая 8\График\obj\Debug\График.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Praktika-IT\Практическая 8\График\obj\Debug\График.exe
+C:\Users\student\source\repos\Praktika-IT\Практическая 8\График\obj\Debug\График.pdb
