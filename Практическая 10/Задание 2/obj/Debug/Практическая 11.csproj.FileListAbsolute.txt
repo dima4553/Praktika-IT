@@ -1,0 +1,9 @@
+C:\Users\student\source\repos\Практическая 11\bin\Debug\Практическая 11.exe.config
+C:\Users\student\source\repos\Практическая 11\bin\Debug\Практическая 11.exe
+C:\Users\student\source\repos\Практическая 11\bin\Debug\Практическая 11.pdb
+C:\Users\student\source\repos\Практическая 11\obj\Debug\Практическая 11.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Практическая 11\obj\Debug\Практическая_11.Form1.resources
+C:\Users\student\source\repos\Практическая 11\obj\Debug\Практическая_11.Properties.Resources.resources
+C:\Users\student\source\repos\Практическая 11\obj\Debug\Практическая 11.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Практическая 11\obj\Debug\Практическая 11.exe
+C:\Users\student\source\repos\Практическая 11\obj\Debug\Практическая 11.pdb

@@ -1,0 +1,8 @@
+C:\Users\student\source\repos\Практическая 11_2\bin\Debug\Практическая 11_2.exe.config
+C:\Users\student\source\repos\Практическая 11_2\bin\Debug\Практическая 11_2.exe
+C:\Users\student\source\repos\Практическая 11_2\bin\Debug\Практическая 11_2.pdb
+C:\Users\student\source\repos\Практическая 11_2\obj\Debug\Практическая_11_2.Form1.resources
+C:\Users\student\source\repos\Практическая 11_2\obj\Debug\Практическая_11_2.Properties.Resources.resources
+C:\Users\student\source\repos\Практическая 11_2\obj\Debug\Практическая 11_2.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Практическая 11_2\obj\Debug\Практическая 11_2.exe
+C:\Users\student\source\repos\Практическая 11_2\obj\Debug\Практическая 11_2.pdb
